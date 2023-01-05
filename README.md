@@ -1,6 +1,6 @@
-#Doctor Appointment
+# Doctor Appointment
 "This is a project based on core Java simulating the appointment system for Doctor's Checkup"
-<b>
+<br>
 "We will work here with a predefined Doctor's list mentioned in the Program.
 
 Doctor-Patient Appointment Booking System:
